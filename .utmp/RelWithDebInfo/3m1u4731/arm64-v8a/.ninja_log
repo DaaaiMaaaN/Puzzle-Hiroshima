@@ -1,0 +1,10 @@
+# ninja log v5
+48	1296	7585068159583881	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cea5c7f48ab5c7c8
+17	1320	7585068159904516	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	22036741887e102b
+61	1322	7585068159879399	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	25b3f0b02b2e33b4
+90	1358	7585068160256354	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7bc20eaae9a902a5
+105	1415	7585068160869040	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	f80270ad1366ad69
+31	1473	7585068161422179	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	be4f22a5c2d34a96
+75	1671	7585068163379519	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5319aa1326c06521
+1	1838	7585068165001899	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6fa28b6dc4a0d44e
+1839	2088	7585068167550950	E:/VR Academy2024/Puzzle Hiroshima/Puzzl Hiroshima/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3m1u4731/obj/arm64-v8a/libgame.so	48d047104e9afe48
